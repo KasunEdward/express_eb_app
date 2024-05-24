@@ -1,0 +1,15 @@
+{
+  "name": "express_eb_app",
+  "version": "1.0.0",
+  "description": "Node Express Elastic Beanstalk sample app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

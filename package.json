@@ -4,7 +4,7 @@
   "description": "Node Express Elastic Beanstalk sample app",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node app.js",
     "test": "npm run test"
   },
   "author": "",
